@@ -1,3 +1,6 @@
+// Import partials
+@import "navbar";
+// Add other imports as necessary
 @import "home";
 @import "summary";
 @import "experience";
@@ -5,3 +8,4 @@
 @import "projects";
 @import "education";
 @import "contact";
+@import "font-awesome";
